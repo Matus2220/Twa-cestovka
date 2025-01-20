@@ -1,2 +1,2 @@
 # Twa-Cestovka
-# 'Dzejkob Kejpa and Mejtusz Mejtizcak'
+# `Dzejkob Kejpa and Mejtusz Mejtizcak`
